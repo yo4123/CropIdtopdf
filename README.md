@@ -15,7 +15,7 @@ To get started with CropIdToPDF, follow these steps:
 #### 1. Clone the repository to your local machine:
 
  
-git clone https://github.com/YOUR_USERNAME/CropIdToPDF.git
+git clone https://github.com/yo4123/CropIdToPDF.git
  
 
 #### 2.Navigate to the project directory:
